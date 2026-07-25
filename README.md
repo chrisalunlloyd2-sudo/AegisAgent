@@ -2,7 +2,7 @@
 
 > AegisAgent — part of the Viper RAID-0 workstation system.
 
-*Auto-generated 2026-06-29 11:23 from source — branch `main`, 0 Python modules, 7 other files.*
+*Auto-generated 2026-07-24 17:28 from source — branch `main`, 0 Python modules, 7 other files.*
 
 ## Architecture
 
@@ -26,11 +26,12 @@ This project exposes modules for import; no standalone entry points detected.
 ## Status
 
 - Branch: `main`
-- Last commit: 2026-06-27 22:53:09 -0600
+- Last commit: 2026-06-29 11:44:45 -0600
 - File types: .md ×7
 
 ### Recent commits
 ```
+ffe34e6 [Moe autonomous] AegisAgent 2026-06-29 11:44
 1538613 [Moe autonomous] AegisAgent 2026-06-27 22:53
 88ad3e7 [Moe autonomous] AegisAgent 2026-06-27 02:12
 73c02c8 Standardized AegisAgent to v10.2 System Bible spec
