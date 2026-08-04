@@ -49,6 +49,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] AegisAgent 2026-07-24 18:14 ($hash)
@@ -56,5 +57,4 @@ All notable changes to this project.
 ## 2026-06
 - **[Changed]** [Moe autonomous] AegisAgent 2026-06-29 11:44 ($hash)
 - **[Changed]** [Moe autonomous] AegisAgent 2026-06-27 22:53 ($hash)
-- **[Changed]** [Moe autonomous] AegisAgent 2026-06-27 02:12 ($hash)
 
