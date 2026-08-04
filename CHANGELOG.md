@@ -46,6 +46,7 @@ All notable changes to this project.
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Docs]** docs: auto-update [skip-docs] ($hash)
 
 ## 2026-07
 - **[Changed]** [Moe autonomous] AegisAgent 2026-07-24 18:14 ($hash)
@@ -57,6 +58,5 @@ All notable changes to this project.
 
 ## 2026-05
 - **[Changed]** Standardized AegisAgent to v10.2 System Bible spec ($hash)
-- **[Changed]** Enterprise: Automated Project Sync ($hash)
 - **[Changed]** Enterprise: Automated Project Sync ($hash)
 
