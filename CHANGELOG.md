@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 21:15 ($hash)
 - **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 20:06 ($hash)
 - **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 19:32 ($hash)
 - **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 18:34 ($hash)
@@ -14,7 +15,6 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 12:45 ($hash)
 - **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 09:56 ($hash)
 - **[Changed]** [Moe autonomous] AegisAgent 2026-08-12 08:10 ($hash)
-- **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
